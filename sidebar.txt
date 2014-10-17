@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kya:home|Door43 (kya)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kya|d43-kya repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kya/archive/master.zip|d43-kya.zip]]
+
+**Recent Changes**
+{{changes>ns = kya}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kya|Ethnologue data]]
+
